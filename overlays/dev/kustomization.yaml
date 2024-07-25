@@ -6,7 +6,7 @@ images:
   newTag: abcdefg
 - name: 950274644703.dkr.ecr.ap-northeast-2.amazonaws.com/wsc2024-ecr
   newName: 950274644703.dkr.ecr.ap-northeast-2.amazonaws.com/wsc2024-ecr
-  newTag: "24561953"
+  newTag: c3e43bcf
 resources:
 - ../../base
 patchesStrategicMerge:
